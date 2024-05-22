@@ -1,0 +1,36 @@
+<link href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css" rel="stylesheet" />
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Syne:wght@400..800&display=swap');   
+font-family: "Syne", sans-serif;
+font-family: "Poppins", sans-serif;
+
+Hello
+Jenny, 
+Product Designer
+
+
+Jenny's Exceptional product design <br> 
+ensure our website's success. <br>
+Highly Recommended
+
+
+10 Years
+Experince.
+
+
+Page 2
+
+My Services
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Duis
+<br />
+lacus nunc, posuere in justo vulputate, bibendum soldiers.
+
+
+
+UI/UX Design
+
+Web Design
+
+
+Landing Page
